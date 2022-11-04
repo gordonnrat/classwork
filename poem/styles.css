@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+/* font-family: 'Cabin', sans-serif; */
+
+h1{
+    font-weight: 700;
+    font-family: 'Cabin', sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+span{
+    margin-left: 10px;
+}
