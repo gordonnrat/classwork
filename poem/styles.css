@@ -9,6 +9,15 @@ h1{
     text-transform: uppercase;
 }
 
+div{
+    font-family: 'Cabin', sans-serif;
+}
+
 span{
     margin-left: 10px;
+}
+
+.red{
+    color: red;
+    font-weight: bold;
 }
